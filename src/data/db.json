@@ -97,6 +97,26 @@
           "hour": "7:32 am",
           "message": "¿A ti cómo te fue?",
           "viewed": false
+        },
+        {
+          "idUser1": 2,
+          "idUser2": 1,
+          "conversation": [
+            {
+              "sendBy": 2,
+              "date": "30/09/2022",
+              "hour": "11:00 am",
+              "message": "Ciao bello, come stai?",
+              "viewed": true
+            },
+            {
+              "sendBy": 2,
+              "date": "30/09/2022",
+              "hour": "11:05 am",
+              "message": "Bene, amore. Te come va?",
+              "viewed": true
+            }      
+          ]
         }        
       ]
     }
