@@ -6,7 +6,7 @@
       "phone": "3195610982",
       "password": "vanessa1991",
       "imagen": "../img/person2.png",
-      "status": false,
+      "connection": false,
       "about": "Per essere quello che vuoi devi scordarti di quello que sei. Anastasio. 'Correre'",
       "sesion": "26/09/2022 10:10 am"
     },
@@ -16,7 +16,7 @@
       "phone": "3214567788",
       "password": "carlitosD",
       "imagen": "../img/Ellipse1.png",
-      "status": false,
+      "connection": false,
       "about": "Tengo un sueño, sueño que mis cuatro hijos vivan un día en una nación donde no sean juzgados por el color de su piel sino por su carácter. M.L.K. 'Tengo un sueño'",
       "sesion": "28/09/2022 8:00 am"
     },
@@ -26,7 +26,7 @@
       "phone": "3273310678",
       "password": "josefa1991",
       "imagen": "../img/person3.png",
-      "status": false,
+      "connection": false,
       "about": "No sei dipressa, sei disttrata. F.C. 'No estás deprimido'",
       "sesion": "27/9/2022 11:00 am"
     }
