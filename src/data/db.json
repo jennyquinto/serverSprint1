@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ingrid",
+      "phone": "3195610982",
+      "password": "vanessa1991",
+      "imagen": "../img/person2.png",
+      "status": false,
+      "about": "Per essere quello che vuoi devi scordarti di quello que sei. Anastasio. 'Correre'",
+      "sesion": "26/09/2022 10:10 am"
+    },
+    {
+      "id": 2,
+      "name": "Juan",
+      "phone": "3214567788",
+      "password": "carlitosD",
+      "imagen": "../img/Ellipse1.png",
+      "status": false,
+      "about": "Tengo un sueño, sueño que mis cuatro hijos vivan un día en una nación donde no sean juzgados por el color de su piel sino por su carácter. M.L.K. 'Tengo un sueño'",
+      "sesion": "28/09/2022 8:00 am"
+    },
+    {
+      "id": 3,
+      "name": "Josefa",
+      "phone": "3273310678",
+      "password": "josefa1991",
+      "imagen": "../img/person3.png",
+      "status": false,
+      "about": "No sei dipressa, sei disttrata. F.C. 'No estás deprimido'",
+      "sesion": "27/9/2022 11:00 am"
+    }
+  ],
+  "messages": [
+    {
+      "idUser1": 3,
+      "idUser2": 2,
+      "conversation": [
+        {
+          "sendBy": 3,
+          "date": "27/09/2022",
+          "hour": "11:00 am",
+          "message": "Ciao bello, come stai?",
+          "viewed": true
+        },
+        {
+          "sendBy": 2,
+          "date": "27/09/2022",
+          "hour": "11:05 am",
+          "message": "Bene, amore. Te come va?",
+          "viewed": true
+        },
+        {
+          "sendBy": 2,
+          "date": "28/09/2022",
+          "hour": "8:11 pm",
+          "message": "Alla fine, c'è l'hai fatta?",
+          "viewed": false
+        }        
+      ]
+    },
+    {
+      "idUser1": 1,
+      "idUser2": 2,
+      "conversation": [
+        {
+          "sendBy": 1,
+          "date": "26/09/2022",
+          "hour": "7:30 pm",
+          "message": "Cómo te terminó de ir en la sustentación",
+          "viewed": true
+        },
+        {
+          "sendBy": 2,
+          "date": "26/09/2022",
+          "hour": "7:31 pm",
+          "message": "Fatal, creo que metiré la materia",
+          "viewed": true
+        },
+        {
+          "sendBy": 1,
+          "date": "26/09/2022",
+          "hour": "7:40 pm",
+          "message": "Tú como siempre, tan positivo!",
+          "viewed": true
+        },
+        {
+          "sendBy": 2,
+          "date": "27/09/2022",
+          "hour": "7:30 am",
+          "message": "Ayer me quedé dormido...",
+          "viewed": false
+        },        
+        {
+          "sendBy": 2,
+          "date": "27/09/2022",
+          "hour": "7:32 am",
+          "message": "¿A ti cómo te fue?",
+          "viewed": false
+        }        
+      ]
+    }
+  ]
+}
