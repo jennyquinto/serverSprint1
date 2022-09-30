@@ -33,6 +33,7 @@
   ],
   "messages": [
     {
+      "id": 1,
       "idUser1": 3,
       "idUser2": 2,
       "conversation": [
@@ -59,7 +60,8 @@
         }        
       ]
     },
-    {
+    { 
+      "id": 2,
       "idUser1": 1,
       "idUser2": 2,
       "conversation": [
@@ -99,6 +101,7 @@
           "viewed": false
         },
         {
+          "id": 3,
           "idUser1": 2,
           "idUser2": 1,
           "conversation": [
