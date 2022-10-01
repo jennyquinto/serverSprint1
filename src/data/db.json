@@ -34,8 +34,8 @@
   "messages": [
     {
       "id": 1,
-      "idUser1": 3,
-      "idUser2": 2,
+      "idUserStart": 3,
+      "idUserGet": 2,
       "conversation": [
         {
           "sendBy": 3,
@@ -62,8 +62,8 @@
     },
     { 
       "id": 2,
-      "idUser1": 1,
-      "idUser2": 2,
+      "idUserStart": 1,
+      "idUserGet": 2,
       "conversation": [
         {
           "sendBy": 1,
@@ -102,8 +102,8 @@
         },
         {
           "id": 3,
-          "idUser1": 2,
-          "idUser2": 1,
+          "idUserStart": 2,
+          "idUserGet": 1,
           "conversation": [
             {
               "sendBy": 2,
