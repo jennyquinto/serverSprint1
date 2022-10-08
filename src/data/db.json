@@ -5,30 +5,90 @@
       "name": "Ingrid",
       "phone": "3195610982",
       "password": "vanessa1991",
-      "imagen": "../img/person2.png",
+      "imagen": "../img/Ellipse2.png",
       "connection": false,
-      "about": "Per essere quello che vuoi devi scordarti di quello que sei, poi essere quello che voui soltanto devi scordarti di quello che sei Anastasio. 'Correre'",
+      "about": "Per essere quello che vuoi devi scordarti di quello que sei, poi essere quello che voui soltanto devi scordarti di quello che sei. Anastasio. 'Correre'",
       "sesion": "26/09/2022 10:10 am"
     },
     {
       "id": 2,
       "name": "Juan",
       "phone": "3214567788",
-      "password": "carlitosD",
+      "password": "juan2",
       "imagen": "../img/Ellipse1.png",
       "connection": false,
       "about": "Tengo un sueño, sueño que mis cuatro hijos vivan un día en una nación donde no sean juzgados por el color de su piel sino por su carácter. M.L.K. 'Tengo un sueño'",
-      "sesion": "28/09/2022 8:00 am"
+      "sesion": "7/10/2022 8:08 am"
     },
     {
       "id": 3,
       "name": "Josefa",
       "phone": "3273310678",
-      "password": "josefa1991",
+      "password": "josefa3",
       "imagen": "../img/person3.png",
       "connection": false,
-      "about": "No sei dipressa, sei disttrata. F.C. 'No estás deprimido'",
-      "sesion": "27/9/2022 11:00 am"
+      "about": "Ustedes son la luz del mundo. No se puede ocultar una ciudad situada en la cima de una montaña. Y no se enciende una lámpara para meterla debajo de un cajón, sino que se la pone sobre el candelero para que ilumine a todos los que están en la casa. Así debe brillar ante los ojos de los hombres la luz que hay en ustedes. 'Mateo 5:14'",
+      "sesion": "29/9/2022 7:00 am"
+    },
+    {
+      "id": 4,
+      "name": "Jan",
+      "phone": "3112345566",
+      "password": "jan4",
+      "imagen": "../img/Ellipse3.png",
+      "connection": false,
+      "about": "Sea lo que seas, sé bueno. A. L.",
+      "sesion": "30/9/2022 8:00 am"
+    },
+    {
+      "id": 5,
+      "name": "Ruben",
+      "phone": "3001234455",
+      "password": "ruben5",
+      "imagen": "../img/Ellipse4.png",
+      "connection": false,
+      "about": "La imaginación es más importante que el conocimiento. El conocimiento es limitado y la imaginación circunda el mundo. A.E.",
+      "sesion": "1/10/2022 9:00 am"
+    },
+    {
+      "id": 6,
+      "name": "Dionisio",
+      "phone": "3012223456",
+      "password": "dionisio6",
+      "imagen": "../img/Ellipse5.png",
+      "connection": false,
+      "about": "La felicidad se puede hallar hasta en los más oscuros momentos, si somos capaces de usar bien la luz. A.D.",
+      "sesion": "2/10/2022 10:10 am"
+    },
+    {
+      "id": 7,
+      "name": "Rufino",
+      "phone": "3023334567",
+      "password": "rufino7",
+      "imagen": "../img/Ellipse6.png",
+      "connection": false,
+      "about": "Me gusta andar pero no sigo el camino pues lo seguro ya no tiene misterio. F.C",
+      "sesion": "3/10/2022 11:00 am"
+    },
+    {
+      "id": 8,
+      "name": "Mariano",
+      "phone": "3034441234",
+      "password": "mariano8",
+      "imagen": "../img/Ellipse7.png",
+      "connection": false,
+      "about": "El gran poder existe en la fuerza irresistible del amor. G.G.M 'El general es su laberinto'",
+      "sesion": "4/10/2022 12:00 pm"
+    },
+    {
+      "id": 9,
+      "name": "Pilar",
+      "phone": "3165552222",
+      "password": "pilar9",
+      "imagen": "../img/Ellipse8.png",
+      "connection": false,
+      "about": "Mi preocupación no es si Dios está de nuestro lado; mi mayor preocupación es estar del lado de Dios, porque Dios siempre tiene la razón. A.L.",
+      "sesion": "5/10/2022 1:00 pm"
     }
   ],
   "messages": [
@@ -56,10 +116,10 @@
           "hour": "8:11 pm",
           "message": "Alla fine, c'è l'hai fatta?",
           "viewed": false
-        }        
+        }
       ]
     },
-    { 
+    {
       "idUser1": 1,
       "idUser2": 2,
       "conversation": [
@@ -90,16 +150,56 @@
           "hour": "7:30 am",
           "message": "Ayer me quedé dormido...",
           "viewed": false
-        },        
+        },
         {
           "sendBy": 2,
           "date": "27/09/2022",
           "hour": "7:32 am",
           "message": "¿A ti cómo te fue?",
           "viewed": false
-        }               
+        }
+      ]
+    },
+    {
+      "idUser1": 2,
+      "idUser2": 4,
+      "conversation": [
+        {
+          "sendBy": 2,
+          "date": "7/10/2022",
+          "hour": "7:30 pm",
+          "message": "Parce me vas a hacer un favor ahí de buena?",
+          "viewed": true
+        },
+        {
+          "sendBy": 2,
+          "date": "7/10/2022",
+          "hour": "7:31 pm",
+          "message": "Me vas a pasar la tarea de mañana, hay recompensa",
+          "viewed": true
+        },
+        {
+          "sendBy": 4,
+          "date": "7/10/2022",
+          "hour": "8:40 pm",
+          "message": "Uyyy men, pero cómo así? no la has hecho?",
+          "viewed": true
+        },
+        {
+          "sendBy": 4,
+          "date": "7/10/2022",
+          "hour": "8:45 pm",
+          "message": "Le tengo que preguntar a Mariana porque ella me la pasó a mi",
+          "viewed": true
+        },
+        {
+          "sendBy": 2,
+          "date": "7/10/2022",
+          "hour": "9:11 pm",
+          "message": "Al fin qué dijo?",
+          "viewed": false
+        }
       ]
     }
-    
   ]
 }
