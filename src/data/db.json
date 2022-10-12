@@ -25,7 +25,7 @@
       "name": "Josefa",
       "phone": "3273310678",
       "password": "josefa3",
-      "imagen": "https://raw.githubusercontent.com/jennyquinto/Img/main/person3.png",
+      "imagen": "https://raw.githubusercontent.com/jennyquinto/Img/main/user1.png",
       "connection": false,
       "about": "Ustedes son la luz del mundo. No se puede ocultar una ciudad situada en la cima de una montaña. Y no se enciende una lámpara para meterla debajo de un cajón, sino que se la pone sobre el candelero para que ilumine a todos los que están en la casa. Así debe brillar ante los ojos de los hombres la luz que hay en ustedes. 'Mateo 5:14'",
       "sesion": "29/9/2022 7:00 am"
@@ -115,7 +115,7 @@
           "date": "28/09/2022",
           "hour": "8:11 pm",
           "message": "Alla fine, c'è l'hai fatta?",
-          "viewed": false
+          "viewed": true
         }
       ]
     },
